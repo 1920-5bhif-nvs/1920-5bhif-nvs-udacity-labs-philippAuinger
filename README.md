@@ -2,4 +2,4 @@
 #### Philipp Auinger, 5BHIF
 
 ## :clipboard: Inhaltsverzeichnis
- - [Protokoll](#clipboard-Protokoll)
+ - ![Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_1)
