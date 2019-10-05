@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Philipp Auinger</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Hi, my name is Philipp
+    \n\nIm studying android programming with this udacity course
+        \n\n I am also a student at the HTL LEONDING, I am part of the 5BHIF.
+    \n\nAndroid is pretty cool, but there is a lot to learn.
+    \n\nI am using a OnePlus 7 Pro to use my apps.
+    \n\nAnd I am pushing this code to GitHub. Today is the 5.10.2019
+    \n\nI am 18 years old, born on the 13.12 in the year 2000.
+    \n\nI am living in Grünau im Almtal. On the countryside.
+    \n\nBye!</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
 </resources>
