@@ -4,3 +4,4 @@
 ## :clipboard: Inhaltsverzeichnis
  - ![Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_1)
  - ![Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_2)
+ - ![Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_3)
