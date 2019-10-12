@@ -155,6 +155,26 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         Timber.i("OnStart called")
     }
 
+    override fun onResume() {
+        super.onResume()
+        Timber.i("OnResume called")
+    }
+
+    override fun onPause() {
+        super.onPause()
+        Timber.i("OnPause called")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        Timber.i("OnStop called")
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        Timber.i("OnDestroy called")
+    }
+
     /*
         Lifecylce, onCreate -> onStart -> onResume
         onPause -> onStop -> onDestroy (Garbage Collector)
