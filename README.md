@@ -31,8 +31,14 @@ Explicit vs Implicit Intents
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/explicitVsImplicit.png)   
 ### Lesson 4
 
-Lifecycle of a Application       
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/lifecycle.png)       
+Lifecycle of a Application         
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/lifecycle.png)      
+
+Observer Pattern      
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/observer.png) 
+
+Observer Pattern specific for our App:
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/observerForApp.png)
 
 ## Branch clonen
 ```
