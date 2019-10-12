@@ -2,9 +2,10 @@
 #### Philipp Auinger, 5BHIF
 
 ## :clipboard: Inhaltsverzeichnis
- - ![Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_1)
- - ![Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_2)
- - ![Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/edit/master/Lesson_3)
+ - ![Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-1)
+ - ![Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-2)
+ - ![Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-3)
+ - ![Lesson 4](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-4)
  
 ## Dokumentation
 Ein Bild sagt mehr als tausend Worte.
@@ -45,11 +46,11 @@ OnSaveInstanceState: Method that saves Data when app gets destroyed
 
 #### Implementation:         
 Daten abspeichern:       
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/save.png)          
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/save.PNG)          
 Die benützten KEYS:        
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/keys.png)            
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/keys.PNG)            
 Daten wiederherstellen:       
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/restore.png)         
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/restore.PNG)         
 
 Nun bleiben auch nach dem Crash der App oder nach dem drehen des Smartphones in den Landscape-Mode, die Daten gespeichert.
 ## Branch clonen
