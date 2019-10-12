@@ -154,4 +154,9 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         super.onStart()
         Timber.i("OnStart called")
     }
+
+    /*
+        Lifecylce, onCreate -> onStart -> onResume
+        onPause -> onStop -> onDestroy (Garbage Collector)
+     */
 }
