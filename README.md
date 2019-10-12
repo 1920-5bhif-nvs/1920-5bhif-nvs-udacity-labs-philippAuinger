@@ -37,9 +37,21 @@ Lifecycle of a Application
 Observer Pattern      
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/observer.png) 
 
-Observer Pattern specific for our App:
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/observerForApp.png)
+Observer Pattern specific for our App:       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/observerForApp.png)     
 
+OnSaveInstanceState: Method that saves Data when app gets destroyed
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/onSaveInstanceState.png)     
+
+#### Implementation:         
+Daten abspeichern:       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/save.png)          
+Die benützten KEYS:        
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/keys.png)            
+Daten wiederherstellen:       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/restore.png)         
+
+Nun bleiben auch nach dem Crash der App oder nach dem drehen des Smartphones in den Landscape-Mode, die Daten gespeichert.
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
