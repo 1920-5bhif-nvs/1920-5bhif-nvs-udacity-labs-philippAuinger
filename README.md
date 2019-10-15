@@ -63,6 +63,9 @@ Die Architektur die wir für diese App benützen:
 Einge genauere Betrachtung:       
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/genauererBetrachtung.png)          
 
+LiveData (wie das Observer-Pattern):       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/liveData.png)        
+
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
