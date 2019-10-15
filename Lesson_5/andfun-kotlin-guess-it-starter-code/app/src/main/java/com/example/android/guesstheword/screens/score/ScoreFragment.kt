@@ -59,9 +59,9 @@ class ScoreFragment : Fragment() {
 
         binding.scoreViewModel = viewModel
 
-        viewModel.score.observe(this, Observer { score ->
+        /*viewModel.score.observe(this, Observer { score ->
             binding.scoreText.text = score.toString()
-        })
+        })*/
 
         viewModel.eventPlayAgain.observe(this, Observer { playAgain ->
             if (playAgain) {
