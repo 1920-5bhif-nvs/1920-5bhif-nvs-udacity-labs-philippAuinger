@@ -1,16 +1,27 @@
 package com.example.android.guesstheword.screens.game
 
 import android.util.Log
+import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 class GameViewModel : ViewModel() {
 
+    //Encapsulation
+    // now you can't change the value of score or word on the outisde, because only
+    //LiveData<Int> is reachable from the outside, (so its not mutable).
+
     // The current word
-    val word = MutableLiveData<String>()
+    private val _word = MutableLiveData<String>()
+
+    val word: LiveData<String>
+        get() = _word
 
     // The current score
-    val score = MutableLiveData<Int>()
+    private val _score = MutableLiveData<Int>()
+
+    val score: LiveData<Int>
+        get() = _score
 
     // The list of words - the front of the list is the next word to guess
     private lateinit var wordList: MutableList<String>
@@ -19,8 +30,7 @@ class GameViewModel : ViewModel() {
         Log.i("GameViewModel", "GameViewModel created!")
         resetList()
         nextWord()
-        score.value = 0
-        word.value = ""
+        _score.value = 0
     }
 
     override fun onCleared() {
@@ -69,7 +79,7 @@ class GameViewModel : ViewModel() {
         if (wordList.isEmpty()) {
             //gameFinished()
         } else {
-            word.value = wordList.removeAt(0)
+            _word.value = wordList.removeAt(0)
         }
     }
 
@@ -77,12 +87,12 @@ class GameViewModel : ViewModel() {
     /** Methods for buttons presses **/
 
     fun onSkip() {
-        score.value = score.value!! - 1
+        _score.value = score.value!! - 1
         nextWord()
     }
 
     fun onCorrect() {
-        score.value = score.value!! + 1
+        _score.value = score.value!! + 1
         nextWord()
     }
 }
