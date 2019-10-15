@@ -6,6 +6,7 @@
  - [Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-2)
  - [Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-3)
  - [Lesson 4](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-4)
+ - [Lesson 5](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-5)
  
 ## Dokumentation
 Ein Bild sagt mehr als tausend Worte.
@@ -50,9 +51,18 @@ Daten abspeichern:
 Die benützten KEYS:        
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/keys.PNG)            
 Daten wiederherstellen:       
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/restore.PNG)         
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/restore.PNG)   
+           
 
 Nun bleiben auch nach dem Crash der App oder nach dem drehen des Smartphones in den Landscape-Mode, die Daten gespeichert.
+
+### Lesson 5
+
+Die Architektur die wir für diese App benützen:       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/viewModel.png)         
+Einge genauere Betrachtung:       
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/genauererBetrachtung.png)          
+
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
