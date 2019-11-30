@@ -122,6 +122,7 @@ interface SleepDatabaseDao{
 
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/work.png)  
 
+
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
