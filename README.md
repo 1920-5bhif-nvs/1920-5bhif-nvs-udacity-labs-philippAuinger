@@ -7,6 +7,7 @@
  - [Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-3)
  - [Lesson 4](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-4)
  - [Lesson 5](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-5)
+ - [Lesson 6](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-6)
  
 ## Dokumentation
 Ein Bild sagt mehr als tausend Worte.
@@ -67,7 +68,11 @@ LiveData (wie das Observer-Pattern):
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/liveData.png)      
 
 Encapsulation:           
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/encapsulation.png)      
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/encapsulation.png)   
+
+### Lesson 6 
+
+
 
 ## Branch clonen
 ```
