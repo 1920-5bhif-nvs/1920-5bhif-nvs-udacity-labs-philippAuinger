@@ -41,10 +41,10 @@ class SleepNightAdapter : ListAdapter<SleepNight, SleepNightAdapter.ViewHolder>(
         return ViewHolder.from(parent)
     }
 
-    class ViewHolder private constructor(val binding: ListItemSleepNightBinding) : RecyclerView.ViewHolder(binding){
-        val sleepLength: TextView = binding.findViewById(R.id.sleep_length)
-        val quality: TextView = binding.findViewById(R.id.quality_string)
-        val qualityImage: ImageView = binding.findViewById(R.id.quality_image)
+    class ViewHolder private constructor(val binding: ListItemSleepNightBinding) : RecyclerView.ViewHolder(binding.root){
+        val sleepLength: TextView = binding.sleepLength
+        val quality: TextView = binding.qualityString
+        val qualityImage: ImageView = binding.qualityImage
 
         fun bind(item: SleepNight) {
             val res = itemView.context.resources
