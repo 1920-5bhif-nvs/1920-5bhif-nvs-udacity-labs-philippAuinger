@@ -20,7 +20,6 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
@@ -102,21 +101,27 @@ class SleepTrackerFragment : Fragment() {
             }
         })
 
-        // TODO (04) Create a new SleepNightAdapter variable,
-        // and bind it to the RecyclerView’s Adapter.
-        val adapter = SleepNightAdapter(SleepNightListener {
-            nightId -> Toast.makeText(context, "${nightId}", Toast.LENGTH_SHORT).show()
+        sleepTrackerViewModel.navigateToSleepDataQuality.observe(this, Observer { night ->
+            night?.let {
+
+                this.findNavController().navigate(
+                        SleepTrackerFragmentDirections
+                                .actionSleepTrackerFragmentToSleepDetailFragment(night))
+                sleepTrackerViewModel.onSleepDataQualityNavigated()
+            }
         })
+
+        val adapter = SleepNightAdapter(SleepNightListener { nightId ->
+            sleepTrackerViewModel.onSleepNightClicked(nightId)
+        })
+
         binding.sleepList.adapter = adapter
 
-        // TODO (05) Create an observer on sleepTrackerViewModel.nights that tells
-        // the Adapter when there is new data.
         sleepTrackerViewModel.nights.observe(viewLifecycleOwner, Observer {
             it?.let {
                 adapter.submitList(it)
             }
         })
-
         return binding.root
     }
 }
