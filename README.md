@@ -127,7 +127,11 @@ interface SleepDatabaseDao{
 
 ### Lesson 7
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/RecyclerView.png) 
+
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/OtherViews.png) 
+
+#### Adapter Overview
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/Adapter.png) 
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
