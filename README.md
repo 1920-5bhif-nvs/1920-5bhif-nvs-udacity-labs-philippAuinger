@@ -139,7 +139,10 @@ interface SleepDatabaseDao{
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/nowWithDatabinding.png)    
 
 #### Start with GridLayout
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/GridLayout.png)         
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/GridLayout.png)       
+
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/routine.png)       
+
 
 
 ## Branch clonen
