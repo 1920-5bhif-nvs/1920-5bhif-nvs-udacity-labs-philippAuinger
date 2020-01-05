@@ -32,7 +32,7 @@ class SleepNightAdapter: RecyclerView.Adapter<TextItemViewHolder>() {
         field = value
         notifyDataSetChanged()
     }
-    
+
 
     override fun getItemCount() = data.size
 
