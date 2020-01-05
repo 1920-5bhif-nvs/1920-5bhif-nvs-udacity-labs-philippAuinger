@@ -42,7 +42,7 @@ class SleepNightAdapter: RecyclerView.Adapter<SleepNightAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val layoutInflater = LayoutInflater.from(parent.context)
-        val view = layoutInflater.inflate(R.layout.text_item_view, parent, false)
+        val view = layoutInflater.inflate(R.layout.list_item_sleep_night, parent, false)
 
         return ViewHolder(view)
     }
