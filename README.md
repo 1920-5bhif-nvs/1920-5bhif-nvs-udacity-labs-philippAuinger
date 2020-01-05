@@ -133,6 +133,7 @@ interface SleepDatabaseDao{
 #### Adapter Overview
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/Adapter.png) 
 
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/DiffUtil.png) 
 
 ## Branch clonen
 ```
