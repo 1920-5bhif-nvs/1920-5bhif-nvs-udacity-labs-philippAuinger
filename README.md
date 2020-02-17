@@ -166,7 +166,7 @@ Content vergleichen:
 ==
 ```
 
-
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/parcel.png)     
 
 ### Lesson 9
 
