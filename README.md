@@ -146,7 +146,8 @@ interface SleepDatabaseDao{
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/routine.png)       
 
 ### Lesson 8
-![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/rest.png)    
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/rest.png)     
+
 ### Lesson 9
 
 ## Branch clonen
