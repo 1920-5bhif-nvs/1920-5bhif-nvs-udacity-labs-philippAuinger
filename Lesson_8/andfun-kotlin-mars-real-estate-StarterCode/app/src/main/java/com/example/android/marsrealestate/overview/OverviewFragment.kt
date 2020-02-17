@@ -51,7 +51,9 @@ class OverviewFragment : Fragment() {
         binding.viewModel = viewModel
 
         // Sets the adapter of the photosGrid RecyclerView
-        binding.photosGrid.adapter = PhotoGridAdapter()
+        binding.photosGrid.adapter = PhotoGridAdapter(PhotoGridAdapter.OnClickListener {
+            viewModel.displayPropertyDetails(it)
+        })
 
         setHasOptionsMenu(true)
         return binding.root
