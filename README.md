@@ -9,6 +9,8 @@
  - [Lesson 5](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-5)
  - [Lesson 6](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-6)
  - [Lesson 7](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-7)
+ - [Lesson 8](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-8)
+ - [Lesson 9](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-9)
  
 ## Dokumentation
 Ein Bild sagt mehr als tausend Worte.
@@ -142,6 +144,10 @@ interface SleepDatabaseDao{
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/GridLayout.png)       
 
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/routine.png)       
+
+### Lesson 8
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/rest.png)    
+### Lesson 9
 
 ## Branch clonen
 ```
