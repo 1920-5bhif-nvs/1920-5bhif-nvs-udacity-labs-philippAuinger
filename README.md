@@ -150,7 +150,9 @@ interface SleepDatabaseDao{
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/library.png)     
 
 Um aufs Internet zugreifen zu können: 
+```
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>     
+```
 im AndroidManifest.xml adden.     
 
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/permissions.png)     
