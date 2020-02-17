@@ -19,6 +19,7 @@ package com.example.android.marsrealestate
 
 import android.view.View
 import android.widget.ImageView
+import android.widget.TextView
 import androidx.core.net.toUri
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
@@ -53,6 +54,12 @@ fun bindImage(imgView: ImageView, imgUrl: String?) {
     }
 }
 
+/**
+ * This binding adapter displays the [MarsApiStatus] of the network request in an image view.  When
+ * the request is loading, it displays a loading_animation.  If the request has an error, it
+ * displays a broken image to reflect the connection error.  When the request is finished, it
+ * hides the image view.
+ */
 @BindingAdapter("marsApiStatus")
 fun bindStatus(statusImageView: ImageView, status: MarsApiStatus?) {
     when (status) {
@@ -69,5 +76,3 @@ fun bindStatus(statusImageView: ImageView, status: MarsApiStatus?) {
         }
     }
 }
-
-// TODO (04) Add the binding adapter to show the MarsApi status in the ImageView and show/hide the view
