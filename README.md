@@ -147,6 +147,7 @@ interface SleepDatabaseDao{
 
 ### Lesson 8
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/rest.png)     
+![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/library.png)     
 
 ### Lesson 9
 
