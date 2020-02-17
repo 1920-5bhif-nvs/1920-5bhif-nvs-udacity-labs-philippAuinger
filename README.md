@@ -157,6 +157,16 @@ im AndroidManifest.xml adden.
 
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/permissions.png)     
 
+Referenzen vergleichen:
+```
+===
+```
+Content vergleichen: 
+```
+==
+```
+
+
 ### Lesson 9
 
 ## Branch clonen

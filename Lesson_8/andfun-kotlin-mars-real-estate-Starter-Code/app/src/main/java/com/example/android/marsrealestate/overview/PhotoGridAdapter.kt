@@ -17,6 +17,7 @@
 
 package com.example.android.marsrealestate.overview
 
+import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
@@ -37,11 +38,12 @@ class PhotoGridAdapter : ListAdapter<MarsProperty, PhotoGridAdapter.MarsProperty
     }
 
     override fun onBindViewHolder(holder: MarsPropertyViewHolder, position: Int) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        val marsProperty = getItem(position)
+        holder.bind(marsProperty)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MarsPropertyViewHolder {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return MarsPropertyViewHolder(GridViewItemBinding.inflate(LayoutInflater.from(parent.context)))
     }
 
     class MarsPropertyViewHolder(private var binding: GridViewItemBinding):
