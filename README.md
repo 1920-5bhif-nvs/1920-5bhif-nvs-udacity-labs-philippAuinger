@@ -178,7 +178,8 @@ Working with offline caching.
 
 Room.kt -> Foundation
 
-
+Wir nutzen ein Repository. Als "Zwischenelement", so ist es egal von wo die Daten kommen.
+(Database, Cache, usw.) 
 
 ## Branch clonen
 ```
