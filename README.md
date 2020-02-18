@@ -184,6 +184,10 @@ Wir nutzen ein Repository. Als "Zwischenelement", so ist es egal von wo die Date
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/workManager.png) 
 
 Workmanager beschränken die "Arbeit", also zum Beispiel wird nur etwas runtergeladen wenn das Gerät ladet und mit dem WIFI verbunden ist. 
+
+-----------------------     
+
+Der Workmanager in DevByteApplication wurde so eingestellt das er jeden Tag Daten neu ladet, mit Constraints wurde es auf gewisse Situationen beschränkt. Netzwerk muss "gratis" sein, das Gerät wird gerade nicht genutzt und muss gerade laden.
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
