@@ -182,8 +182,6 @@ Wir nutzen ein Repository. Als "Zwischenelement", so ist es egal von wo die Date
 (Database, Cache, usw.) 
 
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/workManager.png) 
-
-Workmanager beschränken die "Arbeit", also zum Beispiel wird nur etwas runtergeladen wenn das Gerät ladet und mit dem WIFI verbunden ist. 
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
