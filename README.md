@@ -168,7 +168,7 @@ Content vergleichen:
 ![alt text](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger/blob/master/Images/parcel.png)     
 
 ### Lesson 9
-
+Working with offline caching.
 ## Branch clonen
 ```
  git clone --single-branch --branch <branchname> <remote-repo>
