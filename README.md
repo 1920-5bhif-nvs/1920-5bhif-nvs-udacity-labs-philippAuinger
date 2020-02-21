@@ -2,15 +2,15 @@
 #### Philipp Auinger, 5BHIF
 
 ## :clipboard: Inhaltsverzeichnis
- - [Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-1)
- - [Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-2)
- - [Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-3)
- - [Lesson 4](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-4)
- - [Lesson 5](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-5)
- - [Lesson 6](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-6)
- - [Lesson 7](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-7)
- - [Lesson 8](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-8)
- - [Lesson 9](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-9)
+ - [x] [Lesson 1](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-1)
+ - [x] [Lesson 2](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-2)
+ - [x] [Lesson 3](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-3)
+ - [x] [Lesson 4](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-4)
+ - [x] [Lesson 5](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-5)
+ - [x] [Lesson 6](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-6)
+ - [x] [Lesson 7](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-7)
+ - [x] [Lesson 8](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-8)
+ - [x] [Lesson 9](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-philippAuinger#lesson-9)
  
 ## Dokumentation
 Ein Bild sagt mehr als tausend Worte.
